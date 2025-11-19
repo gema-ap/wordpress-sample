@@ -1,0 +1,19 @@
+/*
+Theme Name: Sterling Commercial Solutions
+Theme URI: https://sterlingcommercialsolutions.com
+Author: Sterling Team
+Author URI: https://sterlingcommercialsolutions.com
+Description: Professional commercial cleaning services WordPress theme featuring modern design, responsive layouts, and industry-specific content sections.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sterling
+Tags: business, commercial, cleaning-services, responsive, custom-menu
+
+Sterling Commercial Solutions is a modern, professional WordPress theme designed specifically for commercial cleaning businesses.
+*/
+
+/* Main styles are enqueued separately from assets/css/main.css */
