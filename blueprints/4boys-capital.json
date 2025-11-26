@@ -1,0 +1,24 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"meta": {
+		"title": "4Boys Capital Auto-Playground",
+		"author": "gema-ap"
+	},
+	"landingPage": "/",
+	"steps": [
+		{
+			"step": "login",
+			"username": "admin"
+		},
+		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "url",
+				"url": "https://github.com/gema-ap/wordpress-sample/releases/download/4boys-capital/theme.zip"
+			},
+			"options": {
+				"activate": true
+			}
+		}
+	]
+}
