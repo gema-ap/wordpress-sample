@@ -1,7 +1,7 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Sterling Commercial Solutions Playground",
+		"title": "Sterling Commercial Solutions Auto-Playground",
 		"author": "gema-ap"
 	},
 	"landingPage": "/",
