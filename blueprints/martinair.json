@@ -7,10 +7,9 @@
 	"landingPage": "/",
 	"steps": [
 		{
-			"step": "defineWpConfigConsts",
-			"consts": {
-				"SHOW_ADMIN_BAR_FRONT": false
-			}
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/mu-plugins/hide-admin-bar.php",
+			"data": "<?php add_filter('show_admin_bar', '__return_false');"
 		},
 		{
 			"step": "installTheme",
