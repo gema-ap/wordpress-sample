@@ -7,6 +7,12 @@
 	"landingPage": "/",
 	"steps": [
 		{
+			"step": "defineWpConfigConsts",
+			"consts": {
+				"SHOW_ADMIN_BAR_FRONT": false
+			}
+		},
+		{
 			"step": "installTheme",
 			"themeData": {
 				"resource": "url",
