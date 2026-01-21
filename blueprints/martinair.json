@@ -1,7 +1,7 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "ACU Playground",
+		"title": "MartinAir Playground",
 		"author": "gema-ap"
 	},
 	"landingPage": "/",
@@ -14,7 +14,7 @@
 			"step": "installTheme",
 			"themeData": {
 				"resource": "url",
-				"url": "https://github.com/gema-ap/wordpress-sample/releases/download/acu/acu-theme.zip"
+				"url": "https://github.com/gema-ap/wordpress-sample/releases/download/martinair/martinair.zip"
 			},
 			"options": {
 				"activate": true
